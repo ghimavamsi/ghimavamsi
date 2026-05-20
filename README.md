@@ -1,86 +1,65 @@
-# Hi there 👋 I'm Gumpu Hima Vamsi
+# Hi 👋 I'm Gumpu Hima Vamsi
 
-### Full Stack Developer | React Native Developer
+### Full Stack & React Native Developer
 
-I build modern, responsive, and scalable web & mobile applications with focus on clean UI, performance, and real-world usability.
+I build modern web and mobile applications with clean UI, scalable architecture, and real-world functionality.
 
 ---
 
 ## 🚀 Tech Stack
 
+<table>
+<tr>
+<td valign="top" width="50%">
+
 ### Frontend
 - HTML5
 - CSS3
-- JavaScript (ES6+)
+- JavaScript
 - React JS
 - Bootstrap
-- Responsive UI Design
 
-### Mobile Development
+</td>
+
+<td valign="top" width="50%">
+
+### Backend & Mobile
 - React Native
 - Expo
-
-### Backend
 - Python
 - Django
-
-### Tools & Platforms
-- Git & GitHub
-- Firebase
 - REST APIs
-- WooCommerce API
-- Razorpay Integration
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 💼 What I Build
+## 💼 Featured Projects
 
-- Business Websites
-- Full Stack Web Applications
-- E-Commerce Platforms
-- React Native Mobile Apps
-- Admin Dashboards
+### 🔹 TeslaAgro Mobile App
+React Native agriculture app with WooCommerce API & Razorpay integration.
+
+### 🔹 Mahaveer Granite Exclusive
+Premium granite showcase platform with responsive modern UI.
+
+### 🔹 Sunseaz Projects
+Worked on modern business websites, frontend systems, and scalable UI development.
+
+### 🔹 Voice Assistant Project
+Flutter-based smart voice assistant application.
+
+---
+
+## ⚡ Focus Areas
+- Full Stack Development
+- React Native Apps
+- Modern UI/UX
 - API Integrations
-- Modern Responsive UI/UX
-
----
-
-## 📱 Featured Projects
-
-### TeslaAgro Mobile App
-Modern agriculture-focused React Native application with:
-- Razorpay Payment Integration
-- WooCommerce API
-- Responsive Mobile UI
-- Cart & Wishlist Features
-
-### Mahaveer Granite Exclusive
-Premium granite & interior products showcase platform featuring:
-- Modern responsive design
-- Product catalog system
-- Dynamic galleries
-- Backend-ready product management
-
-### Voice Assistant Project
-Flutter-based voice assistant application with smart interaction features.
-
----
-
-## 📈 Current Focus
-
-- Advanced React Native Development
-- Scalable Backend Architecture
 - Performance Optimization
-- Modern UI/UX Systems
 
 ---
 
-## 🌐 Connect With Me
-
-- GitHub: https://github.com/ghimavamsi
-
----
-
-## ⚡ Developer Mindset
-
-I focus on building practical, production-ready applications instead of tutorial-level projects.
+## 🌐 Connect
+- GitHub: [@ghimavamsi](https://github.com/ghimavamsi)
