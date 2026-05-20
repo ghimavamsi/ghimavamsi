@@ -1,6 +1,6 @@
 # Hi 👋 I'm Gumpu Hima Vamsi
 
-### Full Stack & React Native Developer
+### Full Stack & React Developer
 
 I build modern web and mobile applications with clean UI, scalable architecture, and real-world functionality.
 
@@ -38,14 +38,14 @@ I build modern web and mobile applications with clean UI, scalable architecture,
 
 ## 💼 Featured Projects
 
+### 🔹 Sunseaz Projects
+Worked on modern business websites, frontend systems, and scalable UI development.
+
 ### 🔹 TeslaAgro Mobile App
 React Native agriculture app with WooCommerce API & Razorpay integration.
 
 ### 🔹 Mahaveer Granite Exclusive
 Premium granite showcase platform with responsive modern UI.
-
-### 🔹 Sunseaz Projects
-Worked on modern business websites, frontend systems, and scalable UI development.
 
 ### 🔹 Voice Assistant Project
 Flutter-based smart voice assistant application.
