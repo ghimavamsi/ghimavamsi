@@ -1,8 +1,5 @@
 # Hi 👋 I'm Gumpu Hima Vamsi
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="hima-vamsi-gumpu-43a5a9245" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/hima-vamsi-gumpu-43a5a9245?trk=profile-badge">Hima Vamsi Gumpu</a></div>
-              
-
 ### Full Stack & Mobile App Developer
 
 I build modern web and mobile applications with clean UI, scalable architecture, and real-world functionality.
