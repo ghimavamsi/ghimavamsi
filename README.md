@@ -1,6 +1,6 @@
 # Hi 👋 I'm Gumpu Hima Vamsi
 
-### Full Stack & React Developer
+### Full Stack & Mobile App Developer
 
 I build modern web and mobile applications with clean UI, scalable architecture, and real-world functionality.
 
